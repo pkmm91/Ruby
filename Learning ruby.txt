@@ -1,0 +1,1 @@
+All the problems are from Hackerrank ruby domain problems
